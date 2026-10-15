@@ -1,0 +1,10 @@
+# l1.lock — pinned AI Vista (L1) release. Format: strategy.md §8.3.
+# DUMMY starting values for the demo repo. Replace with the version installed in dev.
+schema_version: "1.0"
+l1_release_id: "0.0.1-dummy"
+l1_manifest_digest: "sha256:dummy"
+pinned_at: "2026-10-15T00:00:00Z"
+pinned_by: "manual-setup"
+accepted_by: "nbedmuttha"
+images: {}
+bundles: {}
